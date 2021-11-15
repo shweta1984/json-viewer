@@ -1,0 +1,283 @@
+{
+    "?xml": {
+        "@version": "1.0",
+        "@encoding": "UTF-8"
+    },
+    "rss": {
+        "@xmlns:atom": "http://www.w3.org/2005/Atom",
+        "@xmlns:media": "http://search.yahoo.com/mrss/",
+        "@version": "2.0",
+        "channel": {
+            "atom:link": {
+                "@href": "https://feeds.skynews.com/feeds/rss/technology.xml",
+                "@rel": "self",
+                "@type": "application/rss+xml"
+            },
+            "title": "Tech News - Latest Technology and Gadget News | Sky News",
+            "link": "https://news.sky.com/technology",
+            "image": {
+                "title": "Tech News - Latest Technology and Gadget News | Sky News",
+                "url": "https://e3.365dm.com/skynews/logo.png",
+                "link": "https://news.sky.com/technology"
+            },
+            "description": "Sky News technology provides you with all the latest tech and gadget news, game reviews, Internet and web news across the globe. Visit us today.",
+            "language": "en-GB",
+            "copyright": "Copyright 2021, Sky UK. All Rights Reserved.",
+            "lastBuildDate": "Sun, 14 Nov 2021 13:00:00 +0000",
+            "category": "Sky News",
+            "ttl": "1",
+            "item": [
+                {
+                    "title": "Hacker sends fake emails from real FBI address but agency says no data breached",
+                    "link": "http://news.sky.com/story/hackers-target-fbi-emails-and-send-thousands-of-fake-messages-warning-of-cyber-attack-12468205",
+                    "description": "A hacker has sent thousands of fake emails from a real FBI address, warning the recipients that their networks were being attacked by a reputable cyber security researcher.",
+                    "pubDate": "Sun, 14 Nov 2021 02:46:00 +0000",
+                    "guid": "http://news.sky.com/story/hackers-target-fbi-emails-and-send-thousands-of-fake-messages-warning-of-cyber-attack-12468205",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-hackers-computer-hacking_5582278.jpg?20211114032325",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Hackers have targeted an internal FBI email system "
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-hackers-computer-hacking_5582278.jpg?20211114032325",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-hackers-computer-hacking_5582278.jpg?20211114032325"
+                    }
+                },
+                {
+                    "title": "Iceland tourist authorities mock Mark Zuckerberg in latest promotional video",
+                    "link": "http://news.sky.com/story/iceland-tourist-authorities-mock-mark-zuckerberg-in-latest-promotional-video-12468474",
+                    "description": "Iceland's tourism authorities have mocked Mark Zuckerberg and his new umbrella group Meta in its latest video, inviting people to enter the \"Icelandverse\".",
+                    "pubDate": "Sun, 14 Nov 2021 13:00:00 +0000",
+                    "guid": "http://news.sky.com/story/iceland-tourist-authorities-mock-mark-zuckerberg-in-latest-promotional-video-12468474",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-iceland-facebook-meta_5582619.jpg?20211114135258",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Right: Mark Zuckerberg in a Meta video. Left: The Icelandic tourism authorities parody of the Meta video"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-iceland-facebook-meta_5582619.jpg?20211114135258",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-iceland-facebook-meta_5582619.jpg?20211114135258"
+                    }
+                },
+                {
+                    "title": "CEO who went into space with William Shatner killed in plane crash",
+                    "link": "http://news.sky.com/story/glen-de-vries-ceo-who-went-to-space-with-william-shatner-killed-in-plane-crash-12467237",
+                    "description": "A businessman who travelled to space with William Shatner last month has died after a small plane crashed in New Jersey.",
+                    "pubDate": "Fri, 12 Nov 2021 20:03:00 +0000",
+                    "guid": "http://news.sky.com/story/glen-de-vries-ceo-who-went-to-space-with-william-shatner-killed-in-plane-crash-12467237",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-william-shatner_5544648.jpg?20211112202833",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "This undated photo made available by Blue Origin in October 2021 shows, from left, Chris Boshuizen, William Shatner, Audrey Powers and Glen de Vries. (Blue Origin via AP)"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-william-shatner_5544648.jpg?20211112202833",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-william-shatner_5544648.jpg?20211112202833"
+                    }
+                },
+                {
+                    "title": "'It's just as sparkly and won't fade': Researchers create sustainable, biodegradable, vegan glitter",
+                    "link": "http://news.sky.com/story/researchers-create-sustainable-biodegradable-vegan-glitter-in-the-hope-of-reducing-plastic-pollution-12466141",
+                    "description": "Christmas is fast approaching and glitter is often used to bring an extra sparkle to your home around the festive period. It is also messy, unsustainable and contributes to plastic pollution, but researchers from Cambridge University believe they have found the solution.",
+                    "pubDate": "Thu, 11 Nov 2021 15:01:00 +0000",
+                    "guid": "http://news.sky.com/story/researchers-create-sustainable-biodegradable-vegan-glitter-in-the-hope-of-reducing-plastic-pollution-12466141",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-glitter-vegan-glitter_5579744.jpg?20211111160607",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Researchers at the university of Cambridge create vegan glitter "
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-glitter-vegan-glitter_5579744.jpg?20211111160607",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-glitter-vegan-glitter_5579744.jpg?20211111160607"
+                    }
+                },
+                {
+                    "title": "Clinical trials start for new Ebola vaccine developed by the University of Oxford",
+                    "link": "http://news.sky.com/story/clinical-trials-start-for-new-ebola-vaccine-developed-by-the-university-of-oxford-12465671",
+                    "description": "Clinical trials are starting for a new Ebola vaccine&#160;developed by the University of Oxford, designed to tackle the two strains responsible for nearly all outbreaks and deaths worldwide.",
+                    "pubDate": "Thu, 11 Nov 2021 01:59:00 +0000",
+                    "guid": "http://news.sky.com/story/clinical-trials-start-for-new-ebola-vaccine-developed-by-the-university-of-oxford-12465671",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-ebola-vaccine-university_5578964.jpg?20211111020644",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Clinical trials have begun for a new Ebola vaccine"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-ebola-vaccine-university_5578964.jpg?20211111020644",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-ebola-vaccine-university_5578964.jpg?20211111020644"
+                    }
+                },
+                {
+                    "title": "Antibiotic use decreased during first year of COVID pandemic, research suggests",
+                    "link": "http://news.sky.com/story/covid-19-antibiotic-use-decreased-during-first-year-of-pandemic-research-suggests-12465746",
+                    "description": "There was a significant drop in antibiotic use during the first year of the COVID-19 pandemic, a new analysis has found.",
+                    "pubDate": "Thu, 11 Nov 2021 07:25:00 +0000",
+                    "guid": "http://news.sky.com/story/covid-19-antibiotic-use-decreased-during-first-year-of-pandemic-research-suggests-12465746",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/18/10/70x70/antibiotics-drugs-sky-news_4461568.jpg?20181023072139",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Antibiotics"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/18/10/70x70/antibiotics-drugs-sky-news_4461568.jpg?20181023072139",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/18/10/70x70/antibiotics-drugs-sky-news_4461568.jpg?20181023072139"
+                    }
+                },
+                {
+                    "title": "WhatsApp users urged to be wary over 'friend in need' scam",
+                    "link": "http://news.sky.com/story/whatsapp-users-urged-to-be-wary-over-friend-in-need-scam-12465434",
+                    "description": "People are being urged to be wary of WhatsApp messages and texts from friends they know claiming to be in need.",
+                    "pubDate": "Wed, 10 Nov 2021 15:54:00 +0000",
+                    "guid": "http://news.sky.com/story/whatsapp-users-urged-to-be-wary-over-friend-in-need-scam-12465434",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-whatsapp-image-scam_5578969.jpg?20211111055758",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "A WhatsApp user received this message which was not from either of her children"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-whatsapp-image-scam_5578969.jpg?20211111055758",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-whatsapp-image-scam_5578969.jpg?20211111055758"
+                    }
+                },
+                {
+                    "title": "Elon Musk sells Tesla stock worth $5bn after promising to abide by Twitter poll",
+                    "link": "http://news.sky.com/story/elon-musk-sells-tesla-stock-worth-5-billion-after-promising-to-abide-by-twitter-poll-12465677",
+                    "description": "Elon Musk has sold shares in his company worth $5bn (&#163;3.73bn) after promising to abide by a Twitter poll.",
+                    "pubDate": "Thu, 11 Nov 2021 04:16:00 +0000",
+                    "guid": "http://news.sky.com/story/elon-musk-sells-tesla-stock-worth-5-billion-after-promising-to-abide-by-twitter-poll-12465677",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/09/70x70/skynews-elon-musk-grimes-space-x_5523900.jpg?20210924172803",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "Elon Musk was previously married to Justine Wilson and has five sons with the author - 17-year-old twins Griffin and Xavier and triplets Damian, Saxon and Kai, aged 15"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/09/70x70/skynews-elon-musk-grimes-space-x_5523900.jpg?20210924172803",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/09/70x70/skynews-elon-musk-grimes-space-x_5523900.jpg?20210924172803"
+                    }
+                },
+                {
+                    "title": "T cell discovery may lead to vaccine that targets all coronaviruses and variants, study finds",
+                    "link": "http://news.sky.com/story/covid-19-t-cell-discovery-may-lead-to-vaccine-that-targets-all-coronaviruses-and-variants-study-finds-12465761",
+                    "description": "A T cell discovery could lead a development of a vaccine which targets all coronaviruses and COVID variants, a study has suggested.",
+                    "pubDate": "Thu, 11 Nov 2021 08:05:00 +0000",
+                    "guid": "http://news.sky.com/story/covid-19-t-cell-discovery-may-lead-to-vaccine-that-targets-all-coronaviruses-and-variants-study-finds-12465761",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-vaccines-jabs_5560792.jpg?20211027012033",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "File photo dated 31/07/21 of a person receiving a Covid-19 jab. Parents in England can book Covid-19 jabs online for children aged between 12 and 15 from Friday evening with appointments available as early as the weekend, it has been announced. Issue date: Friday October 22, 2021.\r\n"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-vaccines-jabs_5560792.jpg?20211027012033",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/10/70x70/skynews-vaccines-jabs_5560792.jpg?20211027012033"
+                    }
+                },
+                {
+                    "title": "International Space Station being forced to swerve to avoid Chinese satellite junk",
+                    "link": "http://news.sky.com/story/international-space-station-being-forced-to-swerve-to-avoid-chinese-satellite-junk-12465331",
+                    "description": "The International Space Station (ISS) is being forced to swerve to avoid a collision with a fragment of a Chinese satellite, according to Russian space agency Roscosmos.",
+                    "pubDate": "Wed, 10 Nov 2021 13:51:00 +0000",
+                    "guid": "http://news.sky.com/story/international-space-station-being-forced-to-swerve-to-avoid-chinese-satellite-junk-12465331",
+                    "enclosure": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-international-space_5573335.jpg?20211105222328",
+                        "@length": "0",
+                        "@type": "image/jpeg"
+                    },
+                    "media:description": {
+                        "@type": "html",
+                        "#text": "The astronauts will have to wear nappies on their descent from the International Space Station, pictured"
+                    },
+                    "media:thumbnail": {
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-international-space_5573335.jpg?20211105222328",
+                        "@width": "70",
+                        "@height": "70"
+                    },
+                    "media:content": {
+                        "@type": "image/jpeg",
+                        "@url": "https://e3.365dm.com/21/11/70x70/skynews-international-space_5573335.jpg?20211105222328"
+                    }
+                }
+            ]
+        }
+    }
+}
